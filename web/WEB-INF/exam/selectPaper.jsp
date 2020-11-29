@@ -9,7 +9,7 @@
 <head>
 <meta charset="utf-8">
 <title>考试科目</title>
-	<link rel="stylesheet" href="<%=path%>/css/layui.css"  media="all">
+	<link rel="stylesheet" href="<%=path%>css/layui.css"  media="all">
 	<style>
 		a{
 			text-decoration:none;

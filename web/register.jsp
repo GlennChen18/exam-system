@@ -26,7 +26,7 @@
             }
         }
     </script>
-    <script src="<%=path%>/js/jquery.js"></script>
+    <script src="<%=path%>js/jquery.js"></script>
     <script>
         $(document).ready(function (c) {
             $('.alert-close').on('click', function (c) {
